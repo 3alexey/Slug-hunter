@@ -1,2 +1,2 @@
 # Slug-hunter
-Another attempt to catch slugs in teh garden
+Another attempt to catch slugs in the garden
